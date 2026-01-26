@@ -13,4 +13,4 @@
 （1）必须安装JDK25！！（版本设置不当致歉）（Oracle官方的下载链接在[这里](https://www.oracle.com/java/technologies/downloads/)）<br>
 （2）点击setup.exe安装在你想安装的地方<br>
 （3）点击Minesweeper.exe或桌面快捷方式运行即可<br>
-~~也可通过直接运行Main.java来运行游戏~~
+~~也可通过直接运行src/Main.java来运行游戏~~
